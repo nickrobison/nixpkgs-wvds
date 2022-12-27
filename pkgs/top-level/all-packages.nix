@@ -12838,6 +12838,8 @@ with pkgs;
 
   vit = callPackage ../applications/misc/vit { };
 
+  vitables = callPackage ../tools/misc/vitables { };
+
   viu = callPackage ../tools/graphics/viu { };
 
   vix = callPackage ../tools/misc/vix { };

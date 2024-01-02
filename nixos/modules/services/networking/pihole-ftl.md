@@ -2,7 +2,7 @@
 
 *Upstream documentation*: <https://docs.pi-hole.net/ftldns/>
 
-pihole-FTL is a fork of [Dnsmasq](#module-services-networking-dnsmasq),
+pihole-FTL is a fork of [Dnsmasq](),
 providing some additional features, including an API for analysis and
 statistics.
 

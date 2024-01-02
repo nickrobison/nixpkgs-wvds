@@ -14,7 +14,7 @@ the same time.
 ## Configuration {#module-services-networking-pihole-configuration}
 
 See the [Dnsmasq
-example](#module-services-networking-dnsmasq-configuration-home) for the
+example]() for the
 required Dnsmasq configuration. Make sure to set
 [](#opt-services.dnsmasq.enable) to false and
 [](#opt-services.pihole-ftl.enable) to true instead:

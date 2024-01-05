@@ -7,7 +7,7 @@ providing some additional features, including an API for analysis and
 statistics.
 
 This module uses the configuration [options of the Dnsmasq
-module](#module-services-networking-dnsmasq).
+module]()
 Note that pihole-FTL and Dnsmasq cannot be enabled at
 the same time.
 
